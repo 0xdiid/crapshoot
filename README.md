@@ -2,6 +2,8 @@
 
 A dice roguelite with a chunky retro desktop-software look. Throw a cup of crooked dice, hold and reroll Yahtzee style, score Balatro style, and stack charms through eight antes of Pit Bosses.
 
+**Play it in your browser: https://0xdiid.github.io/crapshoot/**
+
 > Work in progress, shared for friends to play. Not a release. Heavily inspired by Balatro.
 
 ![Title screen](docs/screenshots/title.png)
